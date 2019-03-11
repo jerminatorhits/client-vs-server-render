@@ -1,6 +1,6 @@
 # client-vs-server-render
 
-This is a small exercise to demonstrate client side rendering and server side rendering.
+This is a small exercise to demonstrate client-side rendering and server-side rendering.
 
 Clone directory from https://github.com/jerminatorhits/client-vs-server-render.git
 
