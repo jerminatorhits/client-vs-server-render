@@ -17,9 +17,9 @@ Visit this url for client side render.
 ```
 localhost:3000/client
 ```
-Then visit this url for client side render.
+Visit this url for server side render.
 ```
-localhost:3000/client
+localhost:3000/server
 ```
 
 Copyright © 2019 Jeremy Kwa
